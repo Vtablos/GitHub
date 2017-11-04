@@ -7,4 +7,7 @@ public class First {
     String pull = "git pull";
     String add = "git add";
     String comitt = "git comit -m ' ";
+
+    String log = "git log";
+    String changeLog = "git checkout <hashCode>";
 }
